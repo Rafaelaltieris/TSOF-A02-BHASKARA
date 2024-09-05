@@ -13,9 +13,7 @@ Este projeto implementa a fórmula de **Bhaskara** para calcular as raízes de e
 
 A fórmula de Bhaskara para calcular as raízes reais de uma equação quadrática é:
 
-\[
-x_1, x_2 = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-\]
+x1, x2 = (-b ± √(b^2 - 4ac)) / (2a)
 
 ### Tecnologias Utilizadas
 
